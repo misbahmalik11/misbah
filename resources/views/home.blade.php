@@ -19,7 +19,7 @@
 @if(Request::is('about','/'))
 <div class="container p-5 bg-info">
 <h1>Misbah Haleem Qadri.</h1>
-<h1>FA17-BSE-092.</h1>
+<h1>FA17-BSE-065.</h1>
 <h1>FA17-BSE-5B</h1>
 </div>
 @endif
